@@ -42,7 +42,6 @@
 
 🌱 **Currently Exploring:**
 - Building AI-powered applications.
-- Advancing my frontend skills with React.js & Next.js.
 - Exploring cloud computing & DevOps.
 
 📌 **Fun Fact:** I am a state-level chess winner and love classical dance & acting! 🎭♟️
